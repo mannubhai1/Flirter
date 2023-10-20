@@ -1,0 +1,11 @@
+{
+  "name": "Casual flirter",
+  "description": "Flirting lines for casual flirts",
+  "version": "1.0",
+  "manifest_version": 3,
+  "permissions": ["storage", "activeTab", "scripting"],
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": "icon.png"
+  }
+}
